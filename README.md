@@ -1,0 +1,2 @@
+# Steganography
+Steganography is the practice of hiding private or sensitive information within something that appears to be nothing out to the usual. Many different carrier file formats are used like image, audio, video. This project report intends to give an overview of Multimedia Steganography, its uses and techniques. It also attempts to identify the requirements of a good steganography algorithm and briefly reflects on which steganographic techniques are more suitable for which applications.
